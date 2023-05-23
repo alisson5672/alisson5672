@@ -1,5 +1,5 @@
 ### Seja Bem vindo ao meu perfil
-- Aqui voçê ira ver fotos do bom de guerra
+
 <!--
 **alisson5672/alisson5672** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
