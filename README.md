@@ -1,5 +1,6 @@
 ### Seja Bem vindo ao meu perfil
 ![](https://media.tenor.com/aEtcaL45j_YAAAAC/kratos-god-of-war.gif)
+Estou usando o alura para conseguir usar o github
 
 <!--
 **alisson5672/alisson5672** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
