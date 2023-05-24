@@ -1,5 +1,5 @@
 ### Seja Bem vindo ao meu perfil
-![](https://media.tenor.com/zluQAFcfiI4AAAAd/kratos.gif)
+![](https://media.tenor.com/aEtcaL45j_YAAAAC/kratos-god-of-war.gif)
 
 <!--
 **alisson5672/alisson5672** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
